@@ -1,2 +1,2 @@
-# kennychen.github.io
+# kenny7chen.github.io
 Personal homepage for Kenny Chen
